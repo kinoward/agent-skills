@@ -1,0 +1,4 @@
+interface:
+  display_name: "会话收尾清理"
+  short_description: "关闭会话前完成遗留、提交本会话改动、清理临时文件释放空间，不删除会话记录"
+  default_prompt: "使用 $session-cleanup 为本会话收尾：完成遗留、修正文档漂移、提交本会话改动、把临时文件移入废纸篓、复查，并报告释放了多少空间、现在能否安全关闭。"
