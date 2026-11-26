@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目文档整理"
+  short_description: "结合当前会话与项目现状，更新文档、清理过时内容并沉淀经验"
+  default_prompt: "使用 $reconcile-project-docs，根据当前会话和项目实际状态整理文档，修正矛盾、清理过时内容并保留有用经验。"

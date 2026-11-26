@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distill Session History"
+  short_description: "Distill agent sessions into durable project knowledge"
+  default_prompt: "Use $distill-session-history to review recent project sessions and propose durable documentation updates."

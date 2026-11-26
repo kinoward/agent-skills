@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain TODO.md"
+  short_description: "Maintain project TODO.md task lists."
+  default_prompt: "Use $maintain-todo-md to update and validate TODO.md for the target project."
