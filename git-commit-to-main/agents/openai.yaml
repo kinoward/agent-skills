@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit to Main"
+  short_description: "Commit local changes into main."
+  default_prompt: "Use $git-commit-to-main to run applicable project maintenance, split, commit, and fast-forward local changes into main."

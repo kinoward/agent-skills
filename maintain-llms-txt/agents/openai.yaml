@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain llms.txt"
+  short_description: "Maintain project llms.txt navigation files."
+  default_prompt: "Use $maintain-llms-txt to update and validate llms.txt navigation files for the target repository."

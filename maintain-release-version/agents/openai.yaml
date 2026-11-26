@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain Release Version"
+  short_description: "维护发布版本、历史回填与 Changelog 记录"
+  default_prompt: "Use $maintain-release-version to update CHANGELOG.md, VERSION, and discovered package versions from git history."
