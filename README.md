@@ -13,6 +13,7 @@ A collection of AI agent skills for coding agents (Claude Code, Codex, Gemini CL
 | [maintain-llms-txt](./maintain-llms-txt/) | Maintain and validate repository `llms.txt` navigation files |
 | [maintain-release-version](./maintain-release-version/) | Maintain release versions and Keep a Changelog entries for single-version projects |
 | [maintain-todo-md](./maintain-todo-md/) | Maintain and validate a repository `TODO.md` task list |
+| [session-cleanup](./session-cleanup/) | Close out a session: finish loose ends, commit session-owned changes, move throwaway files to the Trash and report space released, never touching session records |
 
 `git-commit-to-main` uses `maintain-llms-txt`, `maintain-todo-md`, and these skills from [github/awesome-copilot](https://github.com/github/awesome-copilot/tree/main/skills): `make-repo-contribution`, `conventional-branch`, `commit-message-storyteller`, `conventional-commit`, `git-commit`.
 

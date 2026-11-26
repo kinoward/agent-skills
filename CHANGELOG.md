@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/), and this project adheres to [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Added
+
+- `session-cleanup` skill: close out a session by finishing in-scope loose ends, fixing doc drift, committing session-owned changes, moving throwaway files to the Trash with a space-released report, and re-checking; session records are always protected
+
 ## [1.1.0] - 2026-11-26
 
 ### Added
